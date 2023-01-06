@@ -1,0 +1,268 @@
+"lfd.
+Nr.",Liegenschaft,Adresse,PLZ,"Wärme-
+versorgung",Wärmeverbrauch witterungsbereinigt [kWh],Stromverbrauch [kWh],Bemerkungen
+1,ehem. Schulgebäude Adalbertstraße,Adalbertstr. 53,10179,Fernwärme,,,"Stromversorgung durch Nr. 85, Abriss Gebäude 2019"
+2,"Möwensee Grundschule, Kita Kindergärten City",Afrikanische Str. 123-125,13351,Fernwärme,"1,012,569","280,743",
+3,Hansabibliothek,Altonaer Str. 15,10557,Fernwärme,"128,035","37,484",
+4,Gymnasium Tiergarten / Hansa-Grundschule,Altonaer Str. 26 / Lessingstr. 5,10555,Fernwärme,"1,260,864","293,502",
+5,Wedding Grundschule,Antonstr. 10-11,13347,Fernwärme,"956,408","82,900",
+6,Fil. Grundschule am Koppenplatz,Auguststr. 21 Hinterhaus,10117,Fernwärme,"307,445","37,900",
+7,Bibliothek am Luisenbad,Badstr. 39,13357,Gas,"375,244","153,803",
+8,Fil. Grundschule am Koppenplatz,Bergstr. 3-9,10115,Gas,"476,874","82,900",
+9,Fil. Papageno Grundschule,Bergstr. 58,10115,Gas,"115,968","17,135",
+10,Papageno Grundschule,Bergstr. 58,10115,Gas,"410,226","132,861",
+11,Charlotte-Pfeffer-Schule,Berolinastr. 8,10178,Fernwärme,"562,390","228,157",
+12,Charlotte-Pfeffer-Schule,Berolinastr. 8,10178,Heizöl,0,-,2019 Zusatzbeheizung Mensa-Container
+13,Diesterweg-Gymnasium,Böttgerstr. 2,13357,Fernwärme,"1,294,114","135,323",
+14,Diesterweg-Gymnasium,Böttgerstr. 4-6,13357,"Gas, WW","4,288",-,Warmwasser Sporthalle
+15,Jugendverkehrsschule Bremer Straße,Bremer Str. 10,10551,"Strom, Heizung","9,694","1,789",
+16,Philip-Schaeffer-Bibliothek,Brunnenstr. 181,10119,,,"126,837","Wärmeversorgung unbekannt, Mietobjekt"
+17,GS am Nordhafen (ehm. 48. GS),Boyenstr. 1-9,13353,"Strom, WP","2,836","43,595",
+18,Vineta-Grundschule,Demminer Str. 27-28,13355,Gas,"778,702","56,398",
+19,Französisches Gymnasium,Derfflingerstr. 7-8,10785,Fernwärme,"1,807,384","470,612",Abgabe Mitte 06/2019
+20,Rudolf-Wissell-Grundschule,Ellerbeker Str. 7-8,13357,Gas,"1,143,762","96,813",
+21,Hemingway-Schule,Gartenstr. 10,10115,Gas,"688,610","142,300",
+22,Sporthalle Kastanienbaum-Grundschule,Gipsstr. 23A,10119,Fernwärme,"115,511",,Stromversorgung durch Nr. 23
+23,Kastanienbaum-Grundschule,Gipsstr. 23A,10119,Gas/Fernwärm,"360,470","66,400",ab 08/2019 Fernwärme
+24,Wilhelm-Hauff-Grundschule,"Gotenburger Str. 6, 8",13359,Gas,"2,090,526","103,305",
+25,ehem. Wilhelm-Busch-Schule,"Gotenburger Str. 7, 9",13359,Gas,,"173,946",Wärmeversorgung durch Nr. 24
+26,Jugendverkehrsschule Gottschedstraße,Gottschedstr. 23,13357,Gas,"11,326","1,689",
+27,Humboldthain-Grundschule,Grenzstr. 7-8,13355,Gas,"527,091","79,250",
+28,"Willy-Brandt-Schule, Haus der Volksbildung",Grüntaler Str. 5,13357,Gas,"2,043,617","203,425",
+29,Anna-Lindh-Schule,Guineastr. 17-18,13351,Gas,"1,720,585","179,135",
+30,Grundschule Neues Tor,Hannoversche Str. 20,10115,Fernwärme,"573,124","107,400",
+31,Andersen-Grundschule,Kattegatstr. 26,13359,Gas,"644,807","63,973",
+32,Grundschule am Koppenplatz,Koppenplatz 12,10551,Fernwärme,"354,299","57,120",2017 Umstellung von Gas auf Fernwärme
+33,Grundschule am Koppenplatz,Koppenplatz 12,10115,Gas,0,,
+34,Kurt-Tucholsky-Grundschule,Kruppstr. 14a,10557,Gas,"301,278","39,477",2017 Übernahme der Liegenschaft
+35,Volkshochschule Mitte,Linienstr. 162,10115,Gas,"523,413","104,200",
+36,Ernst-Schering-Schule,Lütticher Str.47+48,13353,Fernwärme,"704,407","303,800",
+37,Bibliothek Tiergarten-Süd,Lützowstr. 27,10785,Fernwärme,,,"Strom-/Wärmeversorgung durch Nr. 140, Strom 2019"
+38,Allegro-Grundschule,Lützowstr. 82-88,10785,Gas,"1,355,395","398,917",Wärmeverbrauch 2020 unbekannt
+39,Schiller-Bibliothek,Müllerstr. 149,13353,Fernwärme,"128,156","99,979",
+40,Leo-Lionni-Grundschule,Müllerstr. 158,13353,Fernwärme,"907,858","125,277",
+41,Leo-Lionni-Grundschule,Müllerstr. 158,13353,"Gas, WW","18,448",,
+42,Heinrich-von-Stephan-Schule,Neues Ufer 6-8,10553,Fernwärme,"1,195,351","166,739",
+43,"Heinrich-von-Stephan-Schule, ""Pavillion""",Neues Ufer 6-8,10553,Gas,"29,726",,Stromversorgung durch Nr. 42
+44,Schule am Schillerpark/FrTr,Ofener Str.6 / Edinburger Str. 53+55,13349,Gas,"2,153,905","157,820",
+45,Albert-Gutzmann-Grundschule/ehem. Oberschule am Brunnen,Orthstr. 1 / Pankstr. 70,13357,Fernwärme,"1,430,215","254,937",
+46,Herbert-Hoover-Schule,Pankstr. 18-20,13357,Fernwärme,"424,456","66,021",
+47,Heimatmuseum Wedding,Pankstr. 47,13357,Fernwärme,"189,869","26,950",
+48,Anne-Frank-Grundschule,Paulstr. 20d,10557,Gas,"849,586","104,698",
+49,Moabiter Grundschule,Paulstr. 28,10557,Fernwärme,"919,570","120,264",
+50,Bruno-Lösche-Bibliothek,Perleberger Str. 33,10559,Fernwärme,"139,451","47,805",Wärmeverbrauch 2020 unbekannt
+51,Gesundbrunnen Grundschule,Prinzenallee 8,13357,Fernwärme,"691,969","98,144",
+52,Gesundbrunnen Grundschule,Prinzenallee 8,13357,"Gas, WW",0,-,Warmwasser Sporthalle bis 2016
+53,Heinrich-Seidel-Grundschule,Ramlerstr. 9-10,13355,Fernwärme,"1,715,067","478,140",
+54,Kurt-Tucholsky-Grundschule,Rathenower Str. 18,10559,Fernwärme,"717,657","106,907",
+55,Schule am Zille-Park,Ravenéstr. 11-12,13347,Fernwärme,"653,182","48,397",
+56,Schule am Zille-Park,Ravenéstr. 11-12,13347,"Gas, WW","6,765",-,Warmwasser Sporthalle
+57,Grundschule am Arkonaplatz,Ruppiner Str. 47-48,10115,Gas,"596,873","144,392",
+58,Fil. Schul-Umwelt-Zentrum Mitte Scharnweberstraße (SUZ),Scharnweberstr. 159,13405,Fernwärme,"243,930","14,652",
+59,Lessing-Gymnasium,Schöningstr. 17,13349,Fernwärme,"618,625","99,475",
+60,Sporthalle Lessing-Gymnasium,Schöningstr. 6,13349,Gas,,"36,676",Wärmeversorgung durch Nr. 44
+61,Jugendkunstschule Mitte,Schönwalder Str. 19,13347,,,"15,890",Wärmeversorgung durch Schönwalder Str. 19a (Extern)
+62,City-Grundschule,Sebastianstr. 57,10179,Fernwärme,"298,306","98,093",
+63,Fil. Schul-Umwelt-Zentrum Mitte Seestraße (SUZ),See Str. 74,13347,Gas,"47,736",,Stromversorgung bis 2019 durch Nr. 125
+64,Theodor-Heuss-Gemeinschaftsschule (Grundstufe),Siemensstr. 20,10551,Fernwärme,"394,545","90,655",
+65,GuthsMuths-Grundschule,Singerstr. 8,10179,Fernwärme,"414,097","71,600",
+66,Max-Planck-Gymnasium,Singerstr. 8a,10179,Fernwärme,"885,717","96,546",
+67,Theodor-Heuss-Gemeinschaftsschule (Mittel-/Oberstufe),Stephanstr. 2-3,10559,Gas,"919,037","260,872",
+68,Hedwig-Dohm-Schule,Stephanstr. 27,10559,Fernwärme,"593,875","114,503",
+69,Ernst-Reuter-Schule / Gustav-Falke-Grundschule,Stralsunder Str. 56-57 / Strelitzer Str. 41-,13355,Fernwärme,"960,432","725,408",seit 09/2018 Fernwärme
+70,Ernst-Reuter-Schule / Gustav-Falke-Grundschule,Stralsunder Str. 56-57 / Strelitzer Str. 41-,13355,Gas,"790,634",,
+71,Brüder-Grimm-Grundschule,Tegeler Str. 16+18+19,13353,Fernwärme,"1,102,931","159,137",
+72,Brüder-Grimm-Haus / Berlin-Kolleg,Turmstr. 75 / Zwinglistr. 2,10551,Fernwärme,"1,745,461","304,489",
+73,Gottfried-Röhl-Grundschule,Ungarnstr. 75,13349,Gas,"1,126,017","95,162",
+74,Gottfried-Röhl-Grundschule,Ungarnstr. 75,13349,Heizöl,0,-,2020 Zusatzbeheizung Mensa-Container
+75,Erika-Mann Grundschule,Utrechter Str. 25-27,13347,Fernwärme,"860,985","164,149",
+76,Carl-Bolle-Grundschule,Waldenserstr. 20-21,10551,Fernwärme,"562,686","135,324",
+77,Carl-Bolle-Grundschule,Waldenserstr. 20-21,10551,"Gas, WW","96,527",-,Warmwasser Sporthalle
+78,Theodor-Heuss-Gemeinschaftsschule (Hort),Wiclefstr. 6,10551,Fernwärme,"212,149","15,405",
+79,Grundschule am Brandenburger Tor,Wilhelmstr. 51-52,10117,Fernwärme,"714,798","241,524",
+80,Carl-Kraemer-Grundschule,Zechliner Str. 4,13359,Gas,"992,635","98,598",
+81,John-Lennon-Gymnasium,Zehdenicker Str. 17-18,10119,Gas,"515,474","130,278",
+82,Miriam-Makeba-Grundschule,Zinzendorfstr. 15-16,10555,Gas,"748,982","108,620",
+83,Fil. Miriam-Makeba-Grundschule,Zwinglistr. 18-19,10555,Fernwärme,"122,752","28,592",
+84,Wartburg-Schule,Zwinglistr. 37,10555,Fernwärme,"392,654","53,881",
+85,Sporthalle Melchiorstraße,Adalbertstr. 53,10179,Fernwärme,"183,913","5,578",Abriss Gebäude 2019
+86,Sporthalle Albrechtstraße,Albrechtstr. 20,10117,Fernwärme,"44,879","10,660",Strom-/Wärmeverbrauch 2020 unbekannt
+87,Sporthalle Ernst-Schering-Schule,Amrumer Str. 34+36,13353,Fernwärme,"122,434","11,234",
+88,Sportplatz Auguststraße,Auguststr. 66-67,10117,Gas,"132,728","28,338",
+89,Sportplatz Behmstraße,"Behmstr. 29, 31",13357,Gas,"144,112","38,813",
+90,Franz-Mett-Sporthalle,Gormannstr. 13,10119,Gas,"600,459","121,886",
+91,Sportplatz Holzmarktstraße,Holzmarktstr. 55,10179,Gas,"146,483","13,040",
+92,Sporthalle Grundschule am Brandenburger Tor,In den Ministergärten 2,10117,Gas,"46,522","3,837",
+93,Sportplatz Gustav Böß,Koloniestr. 82,13359,Heizöl,"345,434","26,923",
+94,Werner-Kluge-Sportplatz,Kühnemannstr. 52,13409,Gas,"119,149","16,394",
+95,Sportanlage Stade Napoleon,Kurt-Schuhmacher-Damm 207-245,13405,Heizöl,"129,303","17,001",
+96,Poststadion Lehrter Straße,Lehrter Str. 59,10557,Fernwärme,"675,062","271,171",
+97,"Poststadion Lehrter Straße, Rollschuhbahn",Lehrter Str. 59,10557,Gas,"123,735",,Stromversorgung durch Nr. 96
+98,Sporthalle Louise-Schroeder-Platz,Louise-Schroeder-Platz 1,13359,Fernwärme,"254,441","51,050",
+99,Erika-Heß-Eisstadion,Müllerstr. 185,13353,Heizöl,"1,416,782","1,278,032",
+100,Sporthalle Neue Roßstraße,Neue Roßstr. 5,10179,Fernwärme,"383,657","107,836",
+101,Sportplatz Neues Ufer,Neues Ufer 2,10553,Gas,"152,605","29,900",
+102,Tennisplatz Nordufer,Nordufer 28a,13351,Gas,"81,488",,eigene Stromversorgung
+103,Sportplatz,Nordufer 28a,13351,Gas,"112,999","13,297",
+104,Hanne-Sobek-Sportplatz,Osloer Str. 42,13359,Gas,"267,548","9,430",
+105,Sporthalle ehem. Diesterweg-Gymnasium,Putbusser Str. 12,13355,Gas,"444,273","100,680",keine Strom- und Wärmeversorgung seit 2019
+106,Sporthalle Rochstraße,Rochstr. 7,10178,Fernwärme,"88,550","9,186",
+107,Sporthalle Schützenstraße,Schützenstr. 51,10117,Fernwärme,"95,474","56,206",
+108,Bootshaus Tegel,Schwarzer Weg,13505,Gas,"69,626","6,581",
+109,Sporthalle Union,Siemensstr. 20a,10551,Fernwärme,"405,076","22,525",
+110,Sportplatz Stralsunder Straße,Stralsunder Str. 18,13355,Gas,"96,190","34,490",
+111,Sportplatz Togostraße,Togostr. 15,13351,Gas,"167,885","21,428",
+112,Sporthalle/ Revierunterkunft Turmstraße,Turmstr. 85a / b,10559,Fernwärme,"169,360","15,344",
+113,Sportplatz Schillerpark,Ungarnstr. 65,13349,Gas,"181,319","6,756",
+114,Haus an der Wiese,Volkspark Rehberge,13351,Gas,"64,850","9,908",
+115,Stadion Rehberge,Volkspark Rehberge,13351,Gas,"239,925","38,788",
+116,Sporthalle Humboldthain-Grundschule,Wiesenstr. 1b-d,13357,Gas,"104,511","12,158",
+117,Sporthalle Herbert-Hoover-Schule,Wiesenstr. 56-58,13357,Gas,"178,449","40,109",
+118,Bürodienstgebäude Beusselstraße,Beusselstr. 44 n-q,10553,,,"9,532","Wärmeversorgung unbekannt, Mietobjekt"
+119,Bürodienstgebäude Grüntaler Straße,Grüntaler Str. 21,13357,Heizöl,"204,855","47,660",
+120,Bürodienstgebäude Kapweg,Kapweg 3-5,13405,,,"46,771","Wärmeversorgung unbekannt, Mietobjekt"
+121,Bürodienstgebäude (Rathaus Mitte),Karl-Marx-Allee 31,10178,Fernwärme,"1,441,301","993,522",
+122,Bürodienstgebäude (Rathaus Tiergarten),Mathilde-Jacob-Platz 1,10551,Fernwärme,"1,314,101","431,897",
+123,Bürodienstgebäude (Rathaus Wedding)/Café Simit Evi,Müllerstr. 146,13353,Fernwärme,"1,154,517","1,510",Stromversorgung Rathaus Wedding über Müllerstr. 146 Neubau
+124,FrTr,Müllerstr. 147,13353,Fernwärme,"57,099",,eigene Stromversorgung
+125,Haus der Gesundheit Wedding,Reinickendorfer Str. 60-60b,13347,Fernwärme,"867,225","74,750",Abriss Gebäude 2019
+126,"Bürodienstgebäude Ruheplatzstraße, Kita Kindergärten City",Ruheplatzstr. 13,13347,,,"4,935","Wärmeversorgung unbekannt, Mietobjekt"
+127,Bürodienstgebäude Schulstraße/Haus der Jugend Mitte,Schulstr. 99/101/Reinickendorfer Str. 55,13347,Fernwärme,"556,130","56,023",
+128,Bürodienstgebäude Turmstraße (5.OG),Turmstr. 33,10551,,,"1,905","Wärmeversorgung unbekannt, Mietobjekt bis 2018"
+129,Spielplatz Ottopark (ehem. Toilettenhaus),Alt Moabit 34,10555,Gas,,"5,253",eigene Wärmeversorgung
+130,Volkshochschule Wedding/Musikschule Fanny Hensel,Antonstr. 37 / Ruheplatzstr. 4,13347,Fernwärme,"437,174","99,143",
+131,FrTr,Berlichingenstr. 8,10553,Gas,"39,219","7,378",
+132,FrTr,Biesentaler Str. 7,13359,Gas,,"4,857",eigene Wärmeversorgung
+133,Fil. Schul-Umwelt-Zentrum Mitte Birkenstraße (SUZ),Birkenstr. 35-38,10551,"Strom, Heizung","19,421","9,497",
+134,Wolfgang-Scheunemann-Haus,Bredowstr. 31-32,10551,Fernwärme,"172,702","20,087",
+135,FrTr,Buttmannstr. 15,13357,Gas,"13,995",646,
+136,Olof-Palme-Zentrum,Demminer Str. 27-28,13355,Fernwärme,,,eigene Strom- & Wärmeversorgung
+137,FrTr,Fischerinsel 3,10179,Fernwärme,"272,636","57,900",
+138,Abenteuerspielplatz Humboldthain,Gustav-Meyer-Allee 4,13355,Gas,"57,061","10,632",
+139,JE Schlupfwinkel,Kaiserin-Augusta-Allee 100,10553,Gas,"78,849","1,103",
+140,"Div. FrTr, Jugendhaus",Lützowstr. 28,10785,Fernwärme,"183,183","33,309",eigene Stromversorgung ab 2020
+141,FrTr,Luxemburgerstr. 25 / Tegeler Str. 28a,13353,Gas,"68,622","6,306",
+142,FrTr,Lynarstr. 14,13353,Fernwärme,"90,502","8,170",
+143,FrTr,Markgrafenstr. 26,10117,,,"21,065",eigene Wärmeversorgung
+144,"Seniorenfreizeitstätte ""Haus Mettmann""",Otawistr. 46,13351,Gas,"53,035","5,030",
+145,FrTr,Rathenower Str. 17,10559,Fernwärme,"197,276",,seit 05/2017 eigene Stromversorgung
+146,"Stadtschloss Moabit, Kita, Kurt-Tucholsky-Bibliothek",RostockerStr_32_32A_32B,10553,Fernwärme,"318,712","50,719",
+147,FrTr,Schmidstr. 10,10179,Fernwärme,"122,559",,eigene Stromversorgung
+148,FrTr,Schmidstr. 8,10179,Fernwärme,"21,700",,eigene Stromversorgung
+149,FrTr,Schmidstr. 8+10,10179,Fernwärme,"57,056",-,Medientrennung 2018
+150,"Seniorenfreizeitstätte ""Haus Bottrop""",Schönwalder Str. 4,13347,Fernwärme,"69,540","8,488",
+151,Freizeithaus am Mauerpark,Schwedter Str. 234,10435,Gas,"669,917","88,650",
+152,FrTr,Seydlitzstr_12,10557,,,"3,584",eigene Wärmeversorgung
+153,Seniorenfreizeitstätte Spandauer Straße,Spandauer Str. 2,10178,,,"2,515","Wärmeversorgung unbekannt, Mietobjekt"
+154,Seniorenfreizeitstätte Stralsunder Straße,Stralsunder Str. 6,13355,Gas,"44,032","3,469",
+155,Kita,Tegeler Str. 13,13353,Gas,"369,630","27,180",
+156,Kita,Tegeler Str. 13,13353,"Strom, Heizung","44,017",,
+157,Seniorenfreizeitstätte Torstraße,Torstr. 203,10115,,,"1,605","Wärmeversorgung unbekannt, Mietobjekt"
+158,FrTr,Weinmeisterstr. 15,10178,Fernwärme,"106,020","21,900",
+159,Spielplatz Spielhaus Pankeufer,Wilhelm-Kuhr-Str. 50,13359,Gas,"10,327","4,673",
+160,SGA Dohnagestell,Dohnagestell 10,13351,Heizöl,"635,447","112,863",
+161,Revierunterkunft Gartenplatz,Gartenplatz,13355,Heizöl,"9,101",427,
+162,"ehem. Urnenfriedhof Gerichtsstraße, Kolumbarium",Gerichtstr. 37-38,13347,"Strom, WP","7,676","7,799",
+163,Pumpwerk Tiergarten,Katharina Heinroth Ufer 2-3,10787,Gas,"109,888","133,441",
+164,Ausbildungsstätte SGA (Alter Garnisonfriedhof),Kleine Rosenthaler Str. 3,10119,Gas,"22,321","2,995",
+165,"Lagerplatz Nordufer, Beleuchtung",Nordufer 30,13351,,,910,
+166,Revierunterkunft Pankstraße,Pankstr. 17,13357,Fernwärme,"48,527","27,333",
+167,Revierunterkunft Ruheplatz,Ruheplatzstr. 3,13347,Fernwärme,"1,749","4,499",
+168,Revierunterkunft Rungestraße,Rungestr. 31,10179,Fernwärme,"83,552","10,675",
+169,Werkhof Rungestraße,Rungestr. 34,10179,,-,"1,603",keine Wärmeversorgung
+170,Revierunterkunft Scharnhorststraße,Scharnhorststr. 33-34,10115,,-,"12,299",keine Wärmeversorgung
+171,Urnenfriedhof Seestraße,Seestr. 91-93a,13347,Heizöl,"75,441","12,707",
+172,Bürodienstgebäude Straße des 17. Juni,Straße des 17. Juni 31,10785,Heizöl,"474,944","56,666",
+173,Friedhof Turiner Straße,Turiner Str. 9,13347,Gas,"22,832","1,807",
+174,Depot Schillerpark,Ungarnstr. 60,13349,Heizöl,"102,876","6,307",Stromverbrauch 2020 unbekannt
+175,Revierunterkunft Unionstraße,Unionstr. 12,10551,Fernwärme,"84,386","5,985",
+176,Depot SGA Rehberge,Volkspark Rehberge,13351,Heizöl,"76,371","15,765",
+177,Revierunterkunft Weinbergsweg,Weinbergsweg 20,10119,"Strom, Heizung",,"3,334",
+178,Revierunterkunft Humboldthain,Wiesenstr. 1b-d,13357,Heizöl,"142,202",,Stromversorgung durch Nr. 117
+179,Brunnen der Völkerfreundschaft,Alexanderplatz,10178,,,"106,400",
+180,Weltzeituhr,Alexanderplatz 1 y,10178,,,"8,039",
+181,Wegebeleuchtung Ulap-Park,Alt-Moabit 4,10557,,,"4,262",
+182,Springbrunnen,Alt-Moabit 88 y,10559,,,"5,256",
+183,Uferbeleuchtung Spreepalais,Anna-Louisa-Karsch-Str. 2 y,10178,,,0,
+184,Wegebeleuchung Bartningallee,Bartningallee 20 z,10557,,,"1,795",
+185,Denkmal Bücherverbrennung,Bebelplatz,10117,,,"3,580",
+186,Brunnen Bebelplatz,Bebelplatz,10117,,,0,
+187,Pumpe Beregnungsanlage,Bellevuestr. 10 y,10785,,,"6,441",
+188,Wohngebäude und Gewerbe Plötzensee,Dohnagestell 4,13351,Heizöl,"135,138","1,797",
+189,Tiefbrunnen Schillerpark,Edinburger Str. 53 y,13349,,,482,
+190,Wegebeleuchtung Grünanlage Engelbecken,Engeldamm 34 y,10179,,,117,
+191,Treppenbeleuchtung Reichtagsufer/Friedrich-Ebert-Platz,Friedrich-Ebert-Platz 1 y,10557,,,"1,850",
+192,Wegebeleuchtung Friedrich-List-Ufer,Friedrich-List-Ufer 8000,10557,,,307,
+193,Französicher Dom,Gendarmenmarkt 7,10117,Fernwärme,"219,843","58,701",
+194,"Siegessäule, Tunnelhaus A-D",Grosser Stern,10623,,,"85,412",
+195,Hausnummernbeleuchtung Kolonie Grüntal,Grüntaler Str. 57 z,13359,,,141,
+196,Historischer Brunnen (Hausvogteiplatz),Hausvogteiplatz 8000,10117,,,"8,189",
+197,Pfauenbrunnen,Holzmarktstr. 8000,10179,,,"2,128",
+198,Wegebeleuchtung Ingeborg-Drewitz-Allee,Ingeborg-Drewitz-Allee 8000,10557,,,"1,653",
+199,Plansche am Nordbahnhof,Invalidenstr. 125 y,10115,,,520,
+200,Geldzählerbrunnen (Pappelplatz),Invalidenstr. 150 y,10115,,,"4,659",
+201,Wasseranlage von Girot (Invalidenbrunnen),Invalidenstr. 47,10115,,,"18,559",
+202,Beleuchtung Pumpwerk Moabiter Werder,Joachim-Karnatz-Allee 8000,10557,,,"13,283",
+203,Schrankenanlage John-Foster-Dulles-Allee,John-Foster-Dulles-Allee 8000,10557,,,0,
+204,"Tritonbrunnen (Großfürstenplatz, Großer Tiergarten)",John-Foster-Dulles-Allee 8000,10557,,,"1,380",
+205,Molkenmarktbrunnen (Molkenmarkt/Grunerstraße),Jüdenstr.,10178,,,"3,030",
+206,Uferbeleuchtung Wanderweg (Kaiserin-Augusta-Allee),Kaiserin-Augusta-Allee 114,10553,,,"1,719",
+207,Uferbeleuchtung Kapelle-Ufer,Kapelle-Ufer 8002,10115,,,975,
+208,Neptunbrunnen (Spandauer Straße),Karl-Liebknecht-Str. 8 y,10178,,,"64,090",
+209,Gewerbe,Kiautschoustr. 10-11,13353,,,0,
+210,Wegebeleuchtung Sprengelpark,Kiautschoustr. 11 y,13353,,,26,
+211,Wegebeleuchtung Kieler Straße,Kieler Str. 1 z,10115,,,296,
+212,Wegebeleuchtung Koloniestraße,Koloniestr. 131 y,13359,,,"1,248",
+213,Pumpwerk Spreebogenpark,Konrad-Adenauer-Str. 8000,10557,,,"52,736",
+214,Wegebeleuchtung Spreebogenpark,Konrad-Adenauer-Str. 8000,10557,,,"2,800",
+215,Ammonitenbrunnen (Olof-Palme-Platz),Kurfürstenstr. 8000,10787,,,"2,965",
+216,Spindlerbrunnen (Spittelmarkt),Kurstr. 33 y,10117,,,"9,690",
+217,Beleuchtung Geschichtspark ehem. Zellengefängnis Moabit,Lehrter Str. 5y,10557,,,"2,423",
+218,Bewässerungsanlage Leipziger Platz,Leipziger Platz 15 y,10117,,,"3,542",
+219,Bewässerungsanlage Leipziger Platz Süd,Leipziger Platz 8 y,10117,,,613,
+220,Beleuchtung Lessingdenkmal,Lennestr. 8001,10785,,,396,
+221,Indischer Brunnen (Luisenstädtischer Kanal),Leuschnerdamm 15 y,10999,,,"24,748",
+222,Wegebeleuchtung Tilla-Durieux-Park,Linkstr. 12 y,10785,,,"1,257",
+223,Uferbeleuchtung Schiffbauerdamm,Luisenstr. 30 y,10117,,,325,
+224,Moderner Brunnen (Lustgarten),Lustgarten 8000,10178,,,"67,700",
+225,Brunnen (Kieselwaschbeton),Lützowplatz 11 y,10785,,,"1,439",
+226,Bewässerungsanlage Gendarmenmarkt,Mohrenstr. 8000,10117,,,8,
+227,Uferbeleuchtung Monbijou-Park,Monbijoustr. 8000,10117,,,"3,163",
+228,Beleuchtung und Brunnen (Tanz auf dem Vulkan ),Nettelbeckplatz 8000,13347,,,"26,034",
+229,"Kleine Liebessäule (Dorothea-Schlegel-Platz), Beleuchtung",Neustädtische Kirchstr. 9 y,10117,,,"3,808",
+230,Jugendgästehaus Nordufer,Nordufer 28,13351,Heizöl,,"37,656",eigene Wärmeversorgung
+231,Wegebeleuchtung Monbijoupark,Oranienburger Str. 80 y,10178,,,"35,178",
+232,Brunnenschale mit Fontäne (Brunnenplatz),Pankstr. 8000,13357,,,"7,786",
+233,Historische Brunnen (Pariser Platz),Pariser Platz 8000,10117,,,"67,376",
+234,Wegebeleuchtung Bundespräsidentendreieck,Paulstr. 20 a,10557,,,799,
+235,Wegebeleuchtung Kolonie Togo,Petersallee 17,13351,,,0,
+236,Brunnenstube,Platz der Republik 8000,10557,,,"10,448",
+237,Wappenbrunnen (Nikolaikirchplatz),Propststr. 11,10178,,,"2,954",
+238,Pavillon Minigolfplatz Fritz-Schloß-Park,Rathenower Str. 11 y,10559,Gas,"6,777","4,565",
+239,Beleuchtung Robert-Koch-Denkmal,Robert-Koch-Platz 8000,10115,,,0,
+240,Bewässerung Robert-Koch-Platz/Beleuchtung Emil-Fischer-Den,Robert-Koch-Platz 8000,10115,,,0,
+241,Bewässerungsanlage Rosa-Luxemburg-Platz,Rosa-Luxemburg-Str. 8000,10178,,,"1,142",
+242,Plansche Schillerpark,Schillerpark,13349,,,"6,901",
+243,Infopavillion/Kiosk,Schillerpark,13349,Gas,"10,862","29,536",
+244,Pumpe Bewässerungsanlage Hochbeet,Schillingstr. 12 y,10179,,,420,
+245,ehem. Jüdisches Krankenhaus Berlin Wohnpflegezentrum,Schulstr. 97,13347,Fernwärme,-,"72,842","Übernahme 2019, seit 2020 keine Wärmeversorgung"
+246,Beleuchtung Hermann Schulze-Delitzsch Denkmal,Schulze-Delitzsch-Platz 8000,10179,,,1,
+247,2 ehem. Dienstwohnung des Bäderamtes,Seydlitzstr. 11,10557,,,0,
+248,Plansche Singerstraße,Singerstr. 115 y,10179,,,3,
+249,Hausnummernbeleuchtung Kolonie Eintracht an der Panke,Soldiner Str. 76 z,13359,,,280,
+250,Wegebeleuchtung Uferpromenade Kupfergraben,Sperlingsgasse 8000,10178,,,747,
+251,Brunnenschale im Rosengarten (Großer Tiergarten),Straße des 17. Juni 8010,10557,,,10,
+252,Schwellenbrunnen (Nordseite Vinetaplatz),Swinemünder Str. 95 y,13355,,,299,
+253,Uferbeleuchtung Monbijou-Park Brücke,Tucholskystr. 8000,10117,,,"2,762",
+254,Beleuchtung Reiterstandbild Friedrichs des Großen,Unter den Linden,10117,,,"1,553",
+255,Wegebeleuchtung Volkspark Weinbergsweg,Weinbergsweg 10,10119,,,"25,952",
+256,Seniorenpflegeeinrichtung Weinbergsweg,Weinbergsweg 14,10119,Gas,"850,803","268,171",
+257,Bärenbrunnen (Werderscher Markt),Werderscher Markt 1 y,10117,,,"4,595",
+258,Plansche Weydemeyerstraße,Weydemeyerstr. 11 y,10178,,,"2,219",
+259,Brunnen (Kanzleramt),Willy-Brandt-Str. 8000,10557,,,"18,215",
+260,Kulturhaus Mitte,Auguststr. 21 Vorderhaus,10117,Fernwärme,"59,686","7,958",
+261,Klosterruine Mitte,Klosterstr. 73A,10179,,,"1,000",
+262,Bärenzwinger Rungestraße,Köllnischer Park,10179,"Strom, Heizung","4,546","22,126",
+263,"Institut für Schauspiel, Film- und Fernsehberufe",Seestr. 64,13347,,,"7,405",
+264,Fil. Musikschule Fanny Hensel Swinemünder Straße,Swinemünder Str. 80,13355,Gas,"99,449","16,914",
+265,Fil. Musikschule Fanny Hensel Wallstraße/JE Oase,Wallstr. 42 / Wallstr. 43,10179,Fernwärme,"186,103","36,650",

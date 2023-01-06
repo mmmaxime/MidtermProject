@@ -1,0 +1,240 @@
+lfd. Nr.,Liegenschaft,Adresse,PLZ,Art der Wärme- versorgung,Wärme-verbrauch witterungs-bereinigt [kWh],Strom-verbrauch [kWh],Bemerkungen
+,,,,,2020,2020,
+1,"Helene-Lange-Gesamtschule - ehem. Frh. von
+Hünefeld-GS",Lauenburgerstr.114,12169,Fernwärme,,"36,379",Wärmeversorgung aus Nr. 20
+2,Sachsenwald - Grundschule,Sachsenwaldstr. 20 - 21,12157,Fernwärme,"507,535","60,291",
+3,Dunant- Grundschule,Gritznerstr.19 - 23,12163,Fernwärme,"750,191",,Stromversorgung aus Nr. 31
+4,Grundschule am Insulaner,Hanstedter Weg 11,12169,Fernwärme,"635,818","66,400",
+5,Athene - Grundschule,Curtiusstr. 37 - 41,12205,Fernwärme,"626,388","157,438",versorgt mit Strom externe Kita
+6,Alt Lankwitzer Grundschule,Schulstr.17-27,12247,Gas,"458,945","43,450",
+7,Paul Schneider Grundschule,Seydlitzstr. 30 - 40,12249,Gas,"841,100","145,099",
+8,Giesensdorfer  - Grundschule,Ostpreußendamm 63,12207,Gas,"427,109","57,738",
+9,Kronach - Grundschule,Moltkestr. 24-26,12203,Gas,"1,019,252","132,784",
+10,Grundschule unter den Kastanien,Kastanienstraße 7,12209,Gas,"741,956","88,500",
+11,Clemens-Brentano Grundschule,Kommandantenstr. 83-84,12205,Fernwärme,"483,001","42,638",
+12,Käthe Kruse Grundschule,Tietzenweg. 108,12203,Gas,"424,754","65,629",
+13,Grundschule am Königsgraben,Gallwitzallee 136 - 144,12249,Gas,"534,640","85,790",
+14,Ludwig-Bechstein-Grundschule,"Halbauer Weg, 25",12249,Gas,"462,951","62,105",
+15,Grundschule am Karpfenteich,Hildburghauserstr. 135-145,12209,Gas,"491,180","69,995",
+16,Mercator Grundschule,Mercatorweg 8 -10,12207,Fernwärme,"687,891","48,857",
+17,Grundschule an der Bäke,Haydnstr.11-15,12203,Fernwärme,"510,541","113,935",
+18,"Johann-Thienemann Oberschule & Markus-
+Grundschule",Karl-Stieler Str. 10,12167,Fernwärme,"399,532","46,969",
+19,Nikolaus-Augustus-Otto Oberschule,Tietzenweg 101-113,12203,Gas,"613,986","116,644",
+20,"Helene-Lange-Gesamtschule - ehem. Friedrich-
+Bayer-OS",Lauenburgerstr.110,12169,Fernwärme,"1,398,981","70,168",versorgt mit Wärme: Nr. 1; 25
+21,Max von Laue Oberschule,Dürerstr. 27,12203,Gas,"621,092","62,120",
+22,Schmidt-Ott-Oberschule,Plantagenstr.8-10,12169,Gas,"286,864","29,950",
+23,Beethoven -Oberschule,Barbarastr.9,12249,Gas,"990,991","166,959",
+24,Paulsen-Gymnasium,Gritznerstr. 57,12163,Gas,"815,954","78,023",
+25,Hermann Ehlers Oberschule,Elisenstr.3-4,12169,Fernwärme,"1,296","73,678",Wärmeversorgung aus Nr. 20
+26,"Fichtenberg Oberschule & Rothenburg-
+Grundschule",Rothenburgstr. 16-18,12165,Fernwärme,"1,025,646","162,515",
+27,Lilienthal Oberschule,Ringstr.2-3,12203,Gas,"836,508","133,469",
+28,Goethe Oberschule,Drakestr.72-75,12205,Fernwärme,"733,049","167,868",
+29,Willi-Graf-Oberschule,Ostpreußendamm 166-167,12207,Gas,"934,143","120,697",
+30,Gymnasium Steglitz,Heesestr. 15,12169,Gas,"745,284","107,302",
+31,Kopernikus Oberschule,Lepsiusstr. 24-28,12163,Fernwärme,"1,012,956","309,574",versorgt mit Strom: Nr. 3
+32,Turnhalle der ehem. Kopernikus Oberschule,"Ostpreußendamm 108 /
+Lippstädter Str .5",12207,Fernwärme,"431,921","116,558",
+33,Bröndby Oberschule,Dessauerstr. 63,12249,Gas,"39,293","320,976",anteilige Wärmeversorgung aus Nr. 35
+34,Friedrich-Drake-Grundschule,Drakestr.80,12205,Fernwärme,"233,273","61,726",
+35,Paul-Braune-Schule / Beethoven-OS-Filiale,Dessauerstraße 49-55,12249,Gas,"1,879,959","69,933",versorgt mit Wärme Nr. 33
+36,Johann-August-Zeune-Schule,Rothenburgstr.14,12165,Fernwärme,"928,383","177,947",
+37,Peter-Frankenfeld-Schule,Wedellstr. 26,12247,Gas,"606,471","116,190",
+38,Freilandlabor - Steglitz,Gärtnerstr. 14-16,12207,"Nachtspeicherh
+eizung","23,122","1,405",
+39,Nord-Grundschule,Potsdamer Str. 7,14163,Gas,"755,516",,Stromversorgung aus Nr. 184
+40,Süd-Grundschule,Claszeile 56,14165,Gas,"166,488","90,700",
+41,Johannes-Tews-Grundschule,"Wasgenst.50 // Tewsstr.23/16a  // V-Luck-Str.
+24",14129,Gas,"332,405","220,528","anteilige Wärmeversorgung und Stromversorgung aus Nr. 57; versorgt
+mit Strom Nr. 57; 171"
+42,Erich-Kästner-Grundschule,Bachstelzenweg 2-8,14195,Gas,"1,066,663","92,939",
+43,Conrad-Grundschule,Schulstr. 4,14109,Gas,"950,658","261,076","versorgt mit Strom: Nr. 67; 71; 100; 101; 141 sowie Kita Alsenstraße (LEB ""Süd-
+West"")"
+44,Mühlenau-Grundschule,Molsheimer Str. 7,14195,Fernwärme,"691,776","89,347",
+45,Zinnowald-Grundschule,Wilskistr.78-80,14163,Gas,"980,167","800,567","versorgt mit Strom: Nr. 51; 59; 102; 105;
+173; 174 sowie Kita Wilskistraße 75 (LEB ""Süd-West"")"
+46,Schweizerhof-Grundschule,Leo-Baeck-Str. 28-30,14167,Gas,"18,777",,"anteilige Wärmeversorgung aus Nr. 72;
+Stromversorgung aus Nr. 61"
+47,Dreilinden-Oberschule,Dreilindenstr. 47-49,14109,Gas,"1,302,542","196,851",versorgt mit Wärme und Strom Nr. 48
+48,Dreilinden-Grundschule,Dreilindenstr. 65,14109,Gas,,,"Wärme- und Stromversorgung aus Nr.
+47"
+49,Grundschule am Buschgraben,Ludwigsfelder Str. 43-47,14165,Gas,"466,144","63,746",
+50,Nikolaus-August-Otto-Oberschule - Filiale,"Am Rohrgarten 7, 9",14109,Gas,"522,282","101,347","versorgt mit Strom Kita Am Rohrgarten
+(Freier Träger)"
+51,Leistikow-Turnhalle,Hartmannsweilerweg 65,14163,Gas,"218,847",,Stromversorgung aus Nr. 45
+52,Schadow-Oberschule - ehem. Realschule,Beuckestr. 25,14163,Gas,"1,693,951",,versorgt mit Wärme Nr. 54
+53,Gail S. Halvorsen Oberschule,Im Gehege 6-8,14195,Gas,"787,610","57,250",
+54,Schadow-Oberschule - ehem. Gymnasium,Beuckestr. 27-29,14163,Gas,"45,100","295,457","versorgt mit Strom Nr. 52; 129;
+Wärmeversorgung aus Nr. 52"
+55,Droste-Hülshoff-Oberschule,Schönower Str. 8,14165,Gas,"853,175","125,664",
+56,Arndt-Oberschule,Königin-Luise-Str. 80-84/85,14195,Gas,"1,172,994","174,621",
+57,Werner-von-Siemens-Oberschule,Beskidenstr. 1; 1-5; 7,14129,Gas,"1,377,517",566,anteilige Stromversorgung aus Nr. 41
+58,Wilma-Rudolf-Gesamtschule,Am Hegewinkel 2a,14167,Fernwärme,"1,293,483","281,145",
+59,Pestalozzi-Sonderschule,Hartmannsweilerweg 47,14163,Gas,"358,770",,Stromversorgung aus Nr. 45
+60,"Biesalski-Sonderschule, Quentin-Blake- Grundschule & Staatl. Europa-Schule",Hüttenweg 40,14167,Fernwärme,"1,440,475","418,226","versorgt mit Strom: Nr. 103; 104 sowie Kita Flanaganstraße (LEB ""Süd-West"")"
+61,John-F.-Kennedy-Schule,Teltower Damm  87 - 93,14167,Gas,"4,809,564","1,074,892","versorgt mit Strom Nr. 46; 72;
+Liegenschaft ist ab dem 01.01.2019 von BIM GmbH verwaltet"
+62,HORT Gallwitzallee 116,Gallwitzallee 116,12249,Gas,"90,761","2,733",
+63,HORT Langkofelweg 18,"Langkofelweg, 18",12247,Gas,"114,639","18,380",
+64,HORT Murtenerstraße 10,Murtenerstr.10a,12205,Gas,"134,941","14,154",
+65,HORT Treitschkestraße 28-30,Treitschkestr. 28-30,12163,Gas,"193,879","7,329",
+66,JFH - Schottenburg / Verkehrsgarten,Brittendorfer Weg 16+16b,14167,Fernwärme,"244,002","31,547",
+67,Kita Chausseestraße  27,Chausseestr. 27 - 28,14109,Gas,"96,549",,Stromversorgung aus Nr. 43
+68,HORT Claszeile 57,Claszeile 57,14165,Gas,"257,792","25,500",
+69,HORT Ihnestraße,Ihnestr. 74-76,14195,Fernwärme,"97,875","27,406",
+70,HORT Jaehnstraße,Jaehnstr. 14,14163,Gas,"94,407","7,761",
+71,Kita Rathaus Wannsee / JFH  Wannsee,Königstr. 42,14109,Gas,"271,685",,Stromversorgung aus Nr. 43
+72,Kita Reha-Zentrum,Teltower Damm 95-123,14163,Gas,"3,118,489",,"Stromversorgung aus Nr. 61;
+Liegenschaft ist ab dem 01.01.2019 von BIM GmbH verwaltet"
+73,Kita Zentrum am Kleeblatt,Von-der-Trenck-Str. 4,14165,Gas,"231,518","37,750",
+74,Haus der Jugend am Eichgarten 14,Am Eichgarten 14,12167,Fernwärme,"109,850","16,785",
+75,"Jugendfreizeitheim ""Haus der Jugend""",Argentinische Allee 28,14163,Gas,"156,067","24,754",
+76,Spielplatz Bergstraße 51,Bergstr. 51,12169,Gas,"25,912","4,393",
+77,Jugendfreizeitheim Flemingstraße 14b,Flemingstr. 14b,12163,Gas,"203,411","12,004",
+78,Jugendwerkheim Geraer Straße 43,Geraer Str. 43,12209,Gas,"43,283","3,134",
+79,Jugendfreizeitheim Jungfernstieg 19,Jungfernstieg 19,12207,Gas,"65,810","7,976",
+80,JAZ - Jugendausbildungszentrum,Lissabonallee 6,14129,Gas,"2,224,031","367,119",
+81,Jugendfreizeitheim Memlingstraße 14a,Memlingstr. 14a,12203,Gas,"91,853","9,305",
+82,KBH Ramsteinweg,Ramsteinweg 40,14165,Gas,"95,272","14,649",
+83,Jugendfreizeitheim Scheelestr/Osdorferstr.,"Scheelestr. 145 / Osdorferstr.
+90",12209,Fernwärme,"124,276",,Stromversorgung aus Nr. 93
+84,Jugendgesundheitsdienst Schwendenerstraße,Schwendenerstr. 39,14195,Gas,"48,687","5,323",
+85,"Jugendfreizeitheim ""Haus Teltow""",Teltower Damm 228,14167,Gas,"73,449","25,673",
+86,Kinderhaus Schlachtensee (Kinderheim Lindenhof),"Quastheide 1/ Wasgensteig
+51",14163,Gas,"448,243","32,365",
+87,Jugendheim Wichurastraße 59,Wichurastr. 59,12249,Gas,"56,125","6,967",
+88,Jugendwerkheim Königin-Luise-Straße 94,Königin-Luise-Str. 94,14195,Gas,"477,213","15,218",versorgt mit Wärme Nr. 123; 124; 125
+89,"""Haus Lankwitz"" Bethovenstraße 28-38",Beethovenstr. 28-38,12247,Gas,"778,074","141,800",
+90,Jugendheim Bergstr. 2,Bergstr. 2-4,14109,Gas,"589,540","54,028",
+91,Stadion Lichterfelde,Ostpreußendamm 3-17,12207,Gas,"529,906","60,850",
+92,Sportanlage Lessingstraße,Lessingstr. 5-8,12169,Gas,"575,329","59,831",
+93,Sportanlage Osdorferstraße,Osdorferstr. 53,12207,Fernwärme,"188,817","230,989","versorgt mit Strom Nr. 83 sowie Kita
+Reamurstraße aus Nr. dem LEB ""Süd- West"""
+94,Sportanlage Malteserstraße,Malteserstr. 53,12249,Gas,"64,459","11,373",
+95,Sportanlage Leonorenstr./Edenkobenerweg,Leonorenstr. 37-39,12247,Fernwärme,"841,762","301,551",
+96,Sportanlage Schildhornstr./Kreuznacherstr.,Schildhornstr Str. 29-45,12163,Gas,"109,895","33,397",
+97,Rollschuhbahn Mühlenstraße,Mühlenstr. 70,12249,Gas,"84,476","7,956",versorgt mit Wärme Nr. 144
+98,Sportanlage Gallwitzallee,Geraerstr. 99,12249,Gas,"128,667","23,041",
+99,Sportanlage Wedellstraße,Wedellstr. 57,12249,Gas,"648,865","75,261",
+100,Gymnastikhalle Wannsee,Königstr. 42a,14109,Gas,"72,142",,Stromversorgung aus Nr. 43
+101,Sportplatz Wannsee & Alsenstraße,Chausseestr. 29,14109,Gas,"117,630","11,092",Stromversorgung aus Nr. 43
+102,Sporthalle Zehlendorf,Onkel-Tom-Str. 60,14169,Gas,"241,648",,Stromversorgung aus Nr. 45
+103,Cole Sports Center Hüttenweg,Hüttenweg 43,14195,Fernwärme,"413,190",,Stromversorgung aus Nr. 60
+104,Sporthalle Marshallstraße,Marshallstr. 3,14169,Fernwärme,"233,903",,Stromversorgung aus Nr. 60
+105,Ernst-Reuter-Sportfeld,"Onkel-Tom-Str. 40 /
+Siebenendenweg",14169,Gas,"481,985","25,680",anteilige Stromversorgung aus Nr. 45
+106,Sportplatz Sachtlebenstraße,Sachtlebenstr. 36,14165,Gas,"201,280","14,765",
+107,"Seniorenfreizeitstätte ""Maria Rimkus""",Gallwitzallee 53,12249,Gas,"38,963","8,351",
+108,Seniorenfreizeitstätte Ostpreußendamm 52,Ostpreußendamm 52,12207,Gas,"55,020","6,367",
+109,"Seniorenfreizeitstätte Selerweg 18 - ""Club Steglitz""",Selerweg 18,12169,Gas,"37,690","7,295",
+110,Seniorenfreizeitstätte Bolchener Str. 5,Bolchener Str. 5,14167,Fernwärme,"104,737","15,157",
+111,"Seniorenfreizeitstätte ""Nord"" - Argentinische Allee
+89",Argentinische Allee 87,14167,Gas,"90,912","22,500",
+112,"Seniorenfreizeitstätte ""Süd"" - Teltower Damm 226",Teltower Damm 226,14167,Gas,"55,413","10,570",
+113,"SWH ""Kurt Arnold"" Mudrastraße 1-11",Mudrastraße 1-11,12249,Gas,,,"Liegenschaft ist zum 01.01.2018
+verkauft"
+114,SWH Tautenburger Straße 34,Tautenburgerstr. 34,12249,Gas,,,"Liegenschaft ist zum 01.07.2019
+verkauft"
+115,"SWH ""Haus Dreilinden"" - Dreilindenstraße 81-85",Dreilindenstr. 81-85,14109,Gas,,,"Liegenschaft ist zum 01.01.2018
+verkauft"
+116,Rathaus Steglitz,Schloßstr. 37,12163,Fernwärme,"160,863","75,643",
+117,Rathaus Lichterfelde,Goethestr. 9-13,12207,Gas,"424,387","80,700",
+118,Rathaus Zehlendorf,"Kirchstr. 1-3, alle Bauteile",14163,Gas,"2,338,382","845,274","versorgt mit Strom: Nr. 119; 120; 134
+sowie Musikschule Zehlendorf"
+119,Grundstücksamt - Martin-Buber-Straße 2,Martin-Buber-Str. 2,14163,Gas,"69,376",,Stromversorgung aus Nr. 118
+120,Standesamt Teltower Damm 10,Teltower Damm 10,14167,Gas,"62,631",,Stromversorgung aus Nr. 118
+121,Jugendamt-Regionalendienst - Hohenzollernstr. 11,Hohenzollernstr. 11,14163,Gas,"97,844","6,209",
+122,Gesundheitsamt Potsdamer Straße 8,Potsdamer Str. 8,14163,Gas,"261,835",,Stromversorgung aus Nr. 184
+123,"Erziehungs-u. Familienberatung Königin-Luise-Str.
+88",Königin-Luise-Str. 88,14195,Gas,,"10,087",Wärmeversorgung aus Nr. 88
+124,Vet.- u. Lebensmittelaufsicht Königin-Luise-Str. 92,"Königin-Luise-Str. 92
+(Föhrenweg)",14195,Gas,,"19,008",Wärmeversorgung aus Nr. 88
+125,Vet.- u. Lebensmittelaufsicht Königin-Luise-Str. 96,Königin-Luise-Str. 96,14195,Gas,,"16,176",Wärmeversorgung aus Nr. 88
+126,Ratswaage-Frauenverein,Charlottenstr. 64,12247,Gas,"12,513",828,
+127,Gutshaus Steglitz,Wrangelstr. 1,12165,Fernwärme,"109,011","34,900",
+128,Stadtteilbibliothek Lankwitz,Bruchwitzstr. 37,12247,Gas,"127,340","19,137",
+129,Gottfried-Benn Bibliothek,"Beuckestr. 1-3 //
+Nentershauser Platz 1",14163,Gas,"183,462",,Stromversorgung aus Nr. 54
+130,Schwartzsche Villa,Grunewaldstr. 55,12165,Fernwärme,"139,071","37,600",
+131,Musikschule und Kunstamt,Grabertstr. 4,12169,Gas,"56,596","12,817",
+132,VHS - Haus der Volkshochschule,Onkel-Tom-Str. 14,14163,Gas,"233,786",,Stromversorgung aus Nr. 184
+133,VHS Lehrstätte Rondellstraße 5,Rondellstr. 5,14163,Gas,"89,428","14,320",
+134,VHS Geschäftsstelle Markgrafenstraße 3,Markgrafenstr. 3,14163,Gas,"73,907",,Stromversorgung aus Nr. 118
+135,Heimatverein/Kunstamt,Clayallee 355,14163,Gas,"38,908","4,192",
+136,"Jugendverkehrsschule - Steglitz
+(Schulverkehrsgarten)",Albrechtstraße 42,12167,Elektroheizung,"11,214","10,051",
+137,Verwaltungsgebäude - Ordnungsamt / Jugendamt,Unter den Eichen 1,12203,Fernwärme,"122,516","37,950",
+138,Sozialpsychiatrischer Dienst Bergstraße,Bergstr. 90,12169,Gas,"152,718","32,715",
+139,Fürsorgestelle Sonnebergerweg,Sonnebergerweg 28-29,12209,Gas,"106,890","7,798",
+140,Fürsorgestelle Mercatorweg,Mercatorweg 6,12207,Fernwärme,"76,432","39,620",
+141,Jugendgesundheitsdienst Charlottenstr. 10,Charlottenstr. 10,14109,Gas,"79,751",,Stromversorgung aus Nr. 43
+142,Sozialpsychiatrischer Dienst Königstr. 36,Königstr. 36,14163,Gas,"119,352","10,124",
+143,PUK Albrechtstraße 47,Albrechtstraße 47,12167,"Nachtspeicherh
+eizung","53,219","7,943",
+144,PUK Am Gemeindepark 1,Am Gemeindepark 1,12249,Gas,,"28,323",Wärmeversorgung aus Nr. 97
+145,PUK Bergstraße 50,Bergstr. 50,12169,"Nachtspeicherh
+eizung","22,345","6,627",
+146,PUK Goebenstraße 4,Goebenstr. 4,12167,Elektroheizung,,794,
+147,PUK Hindenburgdamm 26-28,Hindenburgdamm 26-28,12203,"Nachtspeicherh
+eizung",50,45,
+148,PUK Klingsorstraße 96 a,Klingsorstr. 96a,12203,Gas,"22,642","1,090",
+149,PUK Krahmerstraße 14,Krahmerstr. 14,12207,Gas,"38,233","4,488",
+150,PUK Ostpreußendamm 95 c,Ostpreußendamm 95 c,12207,"Nachtspeicherh
+eizung",,"3,432",ausser Betrieb / Frostfreihaltung
+151,PUK Preysingstrraße 44,Preysingstr. 44,12249,Elektroheizung,,,ausser Betrieb / Frostfreihaltung
+152,PUK Schildhornstraße 5 a,Schildhornstr. 5a,12163,"Nachtspeicherh
+eizung",,,ausser Betrieb
+153,PUK Schütte-Lanz-Straße 59,Schütte-Lanz-Str. 59,12209,Gas,"84,074","4,993",
+154,PUK Stubenrauchstraße 14 a,Stubenrauchstr. 14a,12203,"Nachtspeicherh
+eizung","23,063","23,246",
+155,PUK Wunsiedeler Weg 28,Wunsiedeler Weg 28 / 30,12247,"Nachtspeicherh
+eizung",,,ausser Betrieb
+156,Werkhof Dillgestraße / Charlottenstraße,Dillgestr. 1 - 5,12247,Gas,"413,681","36,377",
+157,Friedhof Bergstaße 38,"Bergstraße 38 &
+Bismarkstraße 50",12169,Gas,"298,165","48,672",
+158,Friedhof Lange Straße 8,Lange Str. 8 / Kiesstraße 21,12209,Gas,"47,008","8,520",
+159,Friedhof Moltkestraße 41 a - 42,Moltkestr. 42 - 41a,12203,"Nachtspeicherh
+eizung","17,046","27,056",
+160,Parkfriedhof Thuner Platz 2 - 4,Thuner Platz 2-4,12205,Gas,"398,776","47,575",
+161,PUK Am Erlenbusch,Am Erlenbusch (ggü. Nr. 13 ),14169,Gas,"37,700","5,737",
+162,PUK Am Schlachtensee 72  - Paul-Ernst-Park,Am Schlachtensee 72,14129,Gas,"41,662","2,409",
+163,PUK Berlepschstraße 153 - Grünzug Düppel-Süd,Berlepschstr. 153,14165,"Nachtspeicherh
+eizung","1,303",76,
+164,PUK Bitterstr. 12a - Thielpark,Bitterstr. 12a,14195,Gas,"7,232","13,181",
+165,PUK Dahlemer Weg  - Heinrich-Laehr-Park,Heinrich-Laehr-Park,14167,"Nachtspeicherh
+eizung",,00,ausser Betrieb / Frostfreihaltung
+166,PUK Finkenstr. 13 - Finkenpark,"Finkenstr. 13 (ggü)- Heinr.-
+Stahl- Weg",14195,"Nachtspeicherh
+eizung","15,709","4,148",
+167,PUK Hohentwielsteig - ehem. Baumschule,"Hohentwielsteig / Potsd. Ch.
+101",14163,Elektroheizung,,,ausser Betrieb
+168,PUK Königstr. 35 - Glienicker Park,"Königstr. 35 e, d, b, c",14109,Gas,"57,510","7,228",
+169,PUK Königstr. 42 - Gymnastikhalle Wannsee,Königstr. 42a,14109,Gas,125,"6,017",
+170,PUK Leichhardtstraße - Dreipfuhlpark,"Leichhardtstr. 45
+(Dreipfuhlpark)",14195,Öl,"34,657","1,848",
+171,PUK Krottnauer Straße,Krottnauer Str. 77,14129,Elektroheizung,,,Stromversorgung aus Nr. 41
+172,PUK Nibelungenstraße 50,"Nibelungenstr. 50 /
+Dreilindenstr. 81 Y",14109,Gas,"29,717","10,285",
+173,PUK Onkel-Tom-Str. 40 & 63 - Fischtalpark,Onkel-Tom-Str. 40 und 63,14169,Gas,"41,322",,Stromversorgung aus Nr. 45
+174,PUK Onkel-Tom-Str. 165 - 167 Y - Rodelbahn,Onkel-Tom-Str. 165,14169,Elektroheizung,,,Stromversorgung aus Nr. 45
+175,PUK Rondellstraße - Gemeindewäldchen,"Gemeindewäldchen /
+Potsdamerstraße",14163,"Nachtspeicherh
+eizung",,405,ausser Betrieb / Frostfreihaltung
+176,PUK Rötheweg 4 - Elvirasteig,Rötheweg 4,14129,"Nachtspeicherh
+eizung","13,756",711,
+177,PUK Sachtlebenstraße 55,Sachtlebenstr. 55,14165,"Nachtspeicherh
+eizung","14,016","3,388",
+178,PUK Sundgauer Str. 133,Sundgauer Str. 133,14167,Fernwärme,"27,787","12,407",
+179,PUK Thielallee 57 - Thielpark,Thielallee 57,14169,Gas,"45,163","1,609",
+180,PUK Niklasstraße 2 c - Lagerplatz,Niklasstr. 2c,14163,Gas,"79,687",344,
+181,Freilandlabor - Zehlendorf - Sachtlebenstraße 32,Sachtlebenstraße 32,14165,Gas,"10,624",388,
+182,Friedhof Dahlem - Königin-Luise-Straße 57,Königin-Luise-Str. 57,14195,"Nachtspeicherh
+eizung","21,770",417,
+183,Friedhof Wannsee - Friedensstraße 8 / 10,Friedenstr. 8/10,14109,Gas,"69,210","4,424",
+184,Friedhof Zehlendorf - Onkel-Tom-Straße 26 / 30,Onkel-Tom-Str. 26 / 30,14165,Gas,"97,255","250,164",versorgt mit Strom: Nr. 39; 123; 133
+185,Waldfriedhof Dahlem - Hüttenweg 47,Hüttenweg 47,14195,Gas,"238,337","8,484",
+186,Waldfriedhof Zehlendorf - Wasgensteig 30,Wasgensteig 30,14129,Gas,"319,336","64,532",
+187,Berliner Str. 15a,Jeanne-Barez-Schule,13088,Gas,"111,492","11,016",
+188,Berliner Str. 19,Jeanne-Barez-Schule,13088,Gas,"335,718","48,400",

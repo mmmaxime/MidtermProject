@@ -1,0 +1,249 @@
+Lfd.-Nr.,Einrichtung,Straße,PLZ,Wärmemedium,"Wärmeverbrauch
+witterungsbereinigt [kWh]",Stromverbrauch [kWh],Bemerkungen
+1,Barnim-Schule,"Ahrensfelder Chaussee 41, Schule (Geb. A)",13057,Fernwärme,"1,251,402","192,331","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+2,Schule am Fennpfuhl,"Alfred-Jung-Str. 19, Schule (Geb. A)",10369,Fernwärme,"236,064","27,350","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+3,Bürodienstgebäude,"Alfred-Kowalke-Str. 24, Bürogebäude",10315,Fernwärme,"422,276","72,073",
+4,"Allee der Kosmonauten 16, Garage/Trafo","Allee der Kosmonauten 16, Garage/Trafo",10315,-,-,"239,774",Stromversorgung für mehrere Gebäude
+5,Adam-Ries-Schule,"Alt-Friedrichsfelde 66, Schule (Geb. A)",10315,Fernwärme,"559,097","76,880","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+6,"Am Berl 21, Sporthalle","Am Berl 21, Sporthalle",13051,Fernwärme,"82,606",-,vermietet
+7,Martin-Niemöller-Schule,"Am Breiten Luch 5, Schule (Geb. A)",13053,Fernwärme,"543,002","61,650","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+8,Schule Am Breiten Luch,"Am Breiten Luch 17, MZG (Geb. C)",13053,Fernwärme,-,"7,641","Wärmeversorgung aus anderem Gebäude -
+Grundinstandsetzung"
+9,Schule Am Breiten Luch,"Am Breiten Luch 19, Schule (Geb. A)",13053,Fernwärme,"540,114","39,000","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+10,"Am Gutspark 5 (Bornitzstr. 17), Tennisplatz","Am Gutspark 5 (Bornitzstr. 17), Tennisplatz",10367,-,-,"3,497",
+11,"Stadtpark Kielblockstr., Brunnen","Stadtpark Kielblockstr., Brunnen",10367,-,-,526,
+12,Alexander-Puschkin-Schule,"Am Tierpark 19, Sporthalle (Geb. A)",10315,Fernwärme,"119,786","9,449",
+13,"Anton-Saefkow-Platz 5, Sporthalle","Anton-Saefkow-Platz 5, Sporthalle",10369,Fernwärme,"178,917","63,351",
+14,"Anton-Saefkow-Platz, Brunnen","Anton-Saefkow-Platz, Brunnen",10369,-,-,"4,350",
+15,Anton-Saefkow-Bibliothek,"Anton-Saefkow-Platz 14, Bibliothek",10369,-,-,"43,925",angemietet
+16,Schule auf dem lichten Berg,"Atzpodienstr.19, Schule (Geb. A)",10365,Fernwärme,"441,541","93,300","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+17,Jugendverkehrsschule,"Baikalstr. 4, Schule",10319,Fernwärme,"145,536","4,697",
+18,Schule im Ostseekarree,"Barther Str. 27, Schule (Geb. A)",13051,Fernwärme,"442,244","46,450","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+19,Schule am Roedernplatz,"Bernhard-Bästlein-Str. 22, Schule (Geb. A)",10367,Fernwärme,"519,167","51,250","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+20,Schule am Roedernplatz,"Bernhard-Bästlein-Str. 22, MEB (Geb. C)",10367,Fernwärme,"108,273","17,515",
+21,Hans-Rosenthal-Grundschule,"Bernhard-Bästlein-Str. 56, Schule (Geb. A)",10367,Fernwärme,"301,723","62,550","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+22,"Bornitzstr. 83, Sportfunktionsgebäude","Bornitzstr. 83, Sportfunktionsgebäude",10365,Erdgas H,"97,595","25,097",
+23,"Charlottenstr.,  Alfred-Kowalke-Str. 8002, Köpitzer Str. ,
+Brunnen","Charlottenstr.,  Alfred-Kowalke-Str. 8002, Köpitzer Str. ,
+Brunnen",10315,-,-,10,
+24,"Coppistr. 8, Sportfunktionsgebäude","Coppistr. 8, Sportfunktionsgebäude",10365,Fernwärme,"35,368","14,288",
+25,"""Die Arche""","Degner Str. 40, JFE",13053,Erdgas H,"64,692","10,260",
+26,Schule Am Faulen See,"Degner Str. 71-77, Schule (Geb. A)",13053,Erdgas H,"619,384","76,882","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+27,Tbc-Fürsorgestelle,"Deutschmeisterstr 24_Parkaue 3-9(181039), Tbc-
+Fürsorgestelle",10367,-,-,"28,765",angemietet
+28,Filiale Grüner Campus Malchow,"Doberaner Str. 53, Schule (Geb. C)",13051,Fernwärme,-,"53,400","Wärmeversorgung aus anderem Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+29,Filiale Grüner Campus Malchow,"Doberaner Str. 55, Schule (Geb. B)",13051,Fernwärme,"820,497","51,600","Wärmeversorgung für mehrere Gebäude - Stromversorgung für mehrere Gebäude -  -
+Grundinstandsetzung der mitversorgten Sporthalle"
+30,Filiale Grüner Campus Malchow,"Doberaner Str. 58, Schule (Geb. A)",13051,Fernwärme,"248,459","30,850",
+31,Filiale Grüner Campus Malchow,"Doberaner Str. 58, Bungalow (Geb. I)",13051,-,-,670,
+32,Immanuel-Kant-Gymnasium,"Dolgenseestr. 42, Sporthalle (Geb. A)",10319,Fernwärme,"133,247","7,907",Grundinstandsetzung
+33,"Dolgenseestr. 42, Sportfunktionsgebäude","Dolgenseestr. 42, Sportfunktionsgebäude",10319,Fernwärme,"55,128","19,159",
+34,Fil. Paul-und Charlotte-Kniese-Schule,"Dolgenseestr. 60, Schule (Geb. A)",10319,Fernwärme,"580,655","145,530","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+35,Fil. Paul-und Charlotte-Kniese-Schule,"Dolgenseestr. 60, MEB (Geb. C)",10319,Fernwärme,"141,296","34,500",
+36,"""Betonoase""","Dolgenseestr. 60 A, JFE",10319,Fernwärme,"37,770","7,826",
+37,Naturschutzstation Malchow,"Dorfstr. 35, Verwaltungsgebäude",13051,Erdgas H,"34,333",-,vermietet
+38,"Edgarstr. 2, Sporthalle","Edgarstr. 2, Sporthalle",13053,Fernwärme,"174,931","11,416",
+39,"Egon-Erwin-Kisch-Str. 32, Gebäude","Egon-Erwin-Kisch-Str. 32, Gebäude",13059,Fernwärme,"72,105","1,394",Teilnutzung (vermietet)
+40,Bürodienstgebäude,"Egon-Erwin-Kisch-Str. 106, Bürogebäude",13059,Fernwärme,"149,147","65,900",
+41,Richard-Wagner-Schule,"Ehrenfelsstr. 36, Schule (Geb. A)",10318,Erdgas H,"503,094","60,991","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+42,Richard-Wagner-Schule,"Ehrenfelsstr. 36, MEB (Geb. C)",10318,Strom-Mix,-,"29,278","Wärmeversorgung aus anderem Gebäude -
+Wärmepumpe"
+43,Janusch-Korschak-Heim,"Erich-Kurz-Str. 4a, Jugendwohnheim",10319,Fernwärme,"564,206",-,vermietet
+44,Bodo-Uhse-Bibliothek,"Erich-Kurz-Str. 9, Bibliothek",10319,-,-,"42,350",angemietet
+45,Paul-und-Charlotte-Kniese-Schule,"Erich-Kurz-Str. 6-10, Schule mit integrierter Sporthalle
+(Geb. A)",10319,Fernwärme,"840,688","275,255","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+46,Paul-und-Charlotte-Kniese-Schule,"Erich-Kurz-Str. 6-10, MEB (Geb. C)",10319,Fernwärme,"70,300","14,147",
+47,JFE “Tierparkclub / Naturzentrum“,"Erieseering 4-6, JFE",10319,Fernwärme,"208,821","22,800",
+48,"Fennpfuhlweg 53, Sportfunktionsgebäude","Fennpfuhlweg 53, Sportfunktionsgebäude",13059,Erdgas H,"158,407","42,792",
+49,"Fischerstr. 15, Sportfunktionsgebäude","Fischerstr. 15, Sportfunktionsgebäude",10317,Erdgas H,"105,181","30,258",
+50,"Frankfurter Allee 144, Brunnen","Frankfurter Allee 144, Brunnen",10365,-,-,768,
+51,Egon-Erwin-Kisch-Bibliothek,"Frankfurter Allee 149, Bibliothek",10365,-,-,"39,720",angemietet
+52,"Frankfurter Allee 203, Keramikatelier","Frankfurter Allee 203, Keramikatelier",10365,-,-,"17,600",angemietet
+53,Sonnenuhr-Schule,"Franz-Jacob-Str. 33, Schule (Geb. A)",10369,Fernwärme,"306,477","45,507","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+54,Johann-Gottfried-Herder-Gymnasium,"Franz-Jacob-Str. 8, Schule (Geb. A)",10369,Fernwärme,"559,536","112,269","Wärmeversorgung für mehrere Gebäude - Stromversorgung für mehrere Gebäude -  -
+Grundinstandsetzung der mitversorgten Sporthalle"
+55,Alexander-Puschkin-Schule,"Franz-Mett-Str. 18, Sporthalle",10319,Fernwärme,"56,873","15,258",Grundinstandsetzung
+56,"Gensinger Str. 105, Gebäude","Gensinger Str. 105, Gebäude",10315,Fernwärme,"32,911","7,826",
+57,"Gensinger Str. 56, Sporthalle (Geb. A )","Gensinger Str. 56, Sporthalle (Geb. A )",10315,Fernwärme,"79,767","10,532",Teilnutzung wegen Sanierung
+58,"Gotlindestr. 80, Ausbildungsgebäude","Gotlindestr. 80, Ausbildungsgebäude",10365,Erdgas H,"87,038","3,882",
+59,JFE “Leo’s Hütte”,"Grevesmühlener Str. 43, JFE",13059,Fernwärme,"40,380","5,153",
+60,Bürodienstgebäude,"Große-Leege-Str. 103, Bürogebäude",13055,Fernwärme,"763,219","355,364","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+61,Zentralfriedhof,"Gudrunstr. 7-20, Verwaltungsgebäude",10365,Erdgas H,"44,968","15,312","versorgt mehrere Gebäude, Wärmeverbrauch enthält
+auch Heizöl"
+62,Gerda-Lagerlöf-Grundschule,"Hagenstr. 26, Sporthalle (Geb. D)",10365,Fernwärme,"98,024","11,936",
+63,Hermann-Gmeiner-Schule,"Harnackstr. 17, Schule (Geb. A)",10365,Fernwärme,"627,144","36,150",Wärmeversorgung für mehrere Gebäude -
+64,Hermann-Gmeiner-Schule,"Harnackstr. 25, Schule (Geb. B)",10365,Fernwärme,-,"58,050","Wärmeversorgung aus anderem Gebäude - Stromversorgung für mehrere Gebäude -  -
+Grundinstandsetzung"
+65,Sportplatz und JFE “Napf”,"Hauffstr. 13-20, Sportfunktionsgebäude",10317,Erdgas H,"126,007","36,704",
+66,Schule am Grünen Grund,"Herzbergstr. 79, Schule (Geb. A)",10365,Flüssiggas,"45,215","18,975",
+67,"Hohenschönhauser Str. 76, Sportfunktionsgebäude","Hohenschönhauser Str. 76, Sportfunktionsgebäude",10369,Flüssiggas,"18,434","8,047",Grundinstandsetzung
+68,Schule im Gutspark,"Josef-Orlopp-Str. 20, Schule (Geb. A)",10367,Fernwärme,"320,696","64,150","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+69,"Judith-Auer-Str. 8, Seniorenbegegnungsstätte","Judith-Auer-Str. 8, Seniorenbegegnungsstätte",10369,-,-,"3,647",vermietet
+70,"Klützer Str. 36, Sporthalle","Klützer Str. 36, Sporthalle",13059,Fernwärme,"327,299","11,273","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  - Grundinstandsetzung"
+71,34. Grundschule,"Konrad-Wolf-Str. 11, Schule (Geb. A)",13055,Fernwärme,"124,151","109,937",Stromversorgung für mehrere Gebäude -
+72,34. Grundschule,"Konrad-Wolf-Str. 11, Sporthalle (Geb. B)",13055,Fernwärme,"121,647",-,Stromversorgung aus anderem Gebäude -
+73,"Konrad-Wolf-Str. 99, Galerie 100 und Kunstverleih
+Lichtenberg","Konrad-Wolf-Str. 99, Galerie 100 und Kunstverleih
+Lichtenberg",13055,-,-,"2,153",angemietet
+74,"Otto-Marquardt-Str., Judith-Auer-Str. , Brunnen","Otto-Marquardt-Str., Judith-Auer-Str. , Brunnen",10369,-,-,"2,108",
+75,"Fennpfuhlpark Landsberger Allee, Brunnen","Fennpfuhlpark Landsberger Allee, Brunnen",10369,-,-,"15,200",
+76,"Landsberger Allee 227, Brunnen","Landsberger Allee 227, Brunnen",13055,-,-,1,
+77,"Landsberger Allee 277, Brunnen","Landsberger Allee 277, Brunnen",13055,-,-,"1,649",
+78,Manfred-von-Ardenne-Gymnasium,"Leuenberger Str. 5, Sporthalle",13055,Fernwärme,"168,126","6,752",Leerstand
+79,Brodowin-Schule,"Liebenwalder Str. 22, Schule (Geb. A)",13055,Fernwärme,"517,654","50,656","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+80,Brodowin-Schule,"Liebenwalder Str. 22, MEB (Geb. B)",13055,Fernwärme,"128,274","23,676",
+81,"Liepnitzstr. 33-37, Gebäude","Liepnitzstr. 33-37, Gebäude",10318,Erdgas H,"56,224","3,929",
+82,Friedrichsfelder Schule,"Lincolnstr. 67, Schule (Geb. A)",10315,Fernwärme,"347,303","50,750","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+83,Karlshorster Schule,"Lisztstr. 6, Schule (Geb. A)",10318,Fernwärme,"487,638","51,250","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+84,Karlshorster Schule,"Lisztstr. 6, MEB (Geb. B)",10318,Fernwärme,"151,710","28,564",
+85,Immanuel-Kant-Gymnasium,"Lückstr. 63, Schule (Geb. B)",10317,Fernwärme,"584,148","95,640","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+86,Grüner Campus Malchow,"Malchower Chaussee 2, Schule (Geb. A)",13053,Erdgas H,"276,572","27,132","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+87,Grüner Campus Malchow,"Malchower Chaussee 2, MEB (Geb. B)",13053,Strom-Mix,-,"33,154",Wärmepumpe
+88,"Malchower Weg 46, Kita, fr. Tr.","Malchower Weg 46, Kita, fr. Tr.",13053,-,-,"23,450",Wärmeversorgung aus anderem Gebäude - vermietet
+89,Paul-Schmidt-Schule,"Malchower Weg 54, Schule (Geb. A)",13053,Erdgas H,"904,575","30,869","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+90,Paul-Schmidt-Schule,"Malchower Weg 54, MEB (Geb. F)",13053,Strom-Mix,-,"37,965",Wärmepumpe
+91,Jugendverkehrsschule,"Malchower Weg 66, Schule",13053,Erdgas H,"32,837","3,301",
+92,Alexander-Puschkin-Schule,"Massower Str. 37, Schule (Geb. A)",10315,Fernwärme,"839,766","85,950","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+93,Bürgermeister-Ziethen-Schule,"Massower Str. 39, Schule (Geb. A)",10315,Fernwärme,-,"51,700","Wärmeversorgung aus anderem Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+94,Bürgermeister-Ziethen-Schule,"Massower Str. 39, MEB (Geb. B)",10315,Fernwärme,"63,702",-,Stromversorgung aus anderem Gebäude -
+95,"Möllendorffstr. 5, Notstromtrafo","Möllendorffstr. 5, Notstromtrafo",10367,-,-,11,
+96,Bürodienstgebäude,"Möllendorffstr. 6, Bürogebäude",10367,Fernwärme,"411,927","117,132",
+97,"Neustrelitzer Str. 63, Vereinshaus","Neustrelitzer Str. 63, Vereinshaus",13055,Fernwärme,"57,441","7,102",
+98,"Neustrelitzer Str. 61, Sportfunktionsgebäude","Neustrelitzer Str. 61, Sportfunktionsgebäude",13055,Fernwärme,"45,520","11,327",
+99,Schule an der Victoriastadt,"Nöldnerstr. 44, Schule (Geb. B)",10317,Fernwärme,"661,947","86,350","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+100,Bürodienstgebäude,"Normannenstr. 1-2, Bürgeramt",10367,-,-,"34,379",angemietet
+101,Mies van der Rohe Haus,"Oberseestr. 60, Gebäude",13053,Erdgas H,"74,034","3,236",
+102,"Oberseestr. 5, Brunnen","Oberseestr. 5, Brunnen",13053,-,-,"34,291",
+103,Bürodienstgebäude,"Oberseestr. 98, Bürogebäude",13053,Erdgas H,"135,800","21,100",
+104,Nils-Holgersson-Schule,"Otto-Marquardt-Str. 14, Schule (Geb. A)",10369,Fernwärme,"728,278","221,054",
+105,Nils-Holgersson-Schule,"Otto-Marquardt-Str. 14, MEB (Geb. C)",10369,Fernwärme,"111,192","29,513",
+106,Bürodienstgebäude,"Otto-Schmirgal-Str. 1-7, Bürgeramt",10319,-,-,"29,029",angemietet
+107,n.n.,"Paul-Junius-Str. 69, Schule (Geb. A)",10369,Fernwärme,"11,432","47,960","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  - Grundinstandsetzung"
+108,Carl-von-Linné-Schule,"Paul-Junius-Str. 15, Schule (Geb. A)",10367,Fernwärme,"1,729,402","426,975","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+109,Fil. Manfred-von-Ardenne-Gymnasium,"Paul-Junius-Str. 25-27, Schule (Geb. A)",10369,Fernwärme,"228,412","31,280","Wärmeversorgung für mehrere Gebäude - Stromversorgung für mehrere Gebäude -  -
+Grundinstandsetzung"
+110,"Paul-Junius-Str. 25-27, Sporthalle (Geb. C)","Paul-Junius-Str. 25-27, Sporthalle (Geb. C)",10369,Fernwärme,"126,163",-,Stromversorgung aus anderem Gebäude -
+111,Margarete-Steffin-Volkshochschule,"Paul-Junius-Str. 71, VHS",10369,Fernwärme,"449,407","73,385",
+112,"Paul-Junius-Str. 73, Gebäude","Paul-Junius-Str. 73, Gebäude",10369,Fernwärme,"116,544","5,188","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+113,Matibi-Schule,"Prendener Str. 15, Schule (Geb. A)",13059,Fernwärme,"437,759","510,093",Stromversorgung für mehrere Gebäude -
+114,Fritz-Reuter-Schule,"Prendener Str. 29, Schule (Geb. A)",13059,Fernwärme,"1,884,091",-,"Wärmeversorgung für mehrere Gebäude -
+Stromversorgung aus anderem Gebäude -  -"
+115,Anna-Seghers-Bibliothek,"Prerower Platz 2, Bibliothek",13051,-,-,"94,430",angemietet
+116,Randow-Schule,"Randowstr. 45, Schule (Geb. A)",13057,Fernwärme,"474,589","54,400","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+117,Schule am Rathaus,"Rathausstr. 8 , Schule (Geb. A)",10367,Fernwärme,"524,723","69,200","Wärmeversorgung für mehrere Gebäude - Stromversorgung für mehrere Gebäude -  - Teilnutzung
+wegen Sanierung"
+118,"Rhinstr. 127a, Sporthalle","Rhinstr. 127a, Sporthalle",10315,Fernwärme,"166,551","11,753",
+119,"Ribnitzer Str. 1, Sporthalle","Ribnitzer Str. 1, Sporthalle",13051,Fernwärme,"106,875","16,782",
+120,Soziokulturelles Zentrum,"Ribnitzer Str. 1b, Soziokulturelles Zentrum",13051,Fernwärme,"79,719","53,803",
+121,Obersee-Schule,"Roedernstr. 69-72, Schule (Geb. A)",13053,Erdgas H,"419,465","81,450",
+122,Lew-Tolstoi-Schule,"Römerweg 120, Schule (Geb. B)",10318,Erdgas H,"804,189","99,444","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+123,Hans-und-Hilde-Coppi-Schule,"Römerweg 30-32, Schule (Geb. A)",10318,Fernwärme,"1,033,249","134,967","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+124,Fil. Paul-Schmidt-Schule,"Rüdickenstr. 24, MUR (Geb. A)",13053,Fernwärme,"264,686","21,022","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+125,Gerda-Lagerlöf-Grundschule,"Rüdigerstr. 76, Schule (Geb. A)",10365,Fernwärme,"384,476","51,309","Wärmeversorgung für mehrere Gebäude - Teilnutzung
+wegen Sanierung"
+126,Gerda-Lagerlöf-Grundschule,"Rüdigerstr. 76, MEB (Geb. C)",10365,Fernwärme,"83,865","11,916",
+127,"Rudolf-Seiffert-Str. 37, Sporthalle","Rudolf-Seiffert-Str. 37, Sporthalle",10369,Fernwärme,"155,925","15,022",
+128,"Fil. Bernhard-Grzimek-Schule/Fil.
+Alexander-Puschkin-Schule","Rummelsburger Str. 21, Schule (Geb. A)",10319,Fernwärme,"304,246","10,650",Teilnutzung
+129,"Ruschestr. 43, Seniorenbegegnungsstätte","Ruschestr. 43, Seniorenbegegnungsstätte",10367,-,-,"11,171",angemietet
+130,Zoschke-Stadion,"Ruschestr. 90, Sportfunktionsgebäude",10365,Erdgas H,"120,566","29,843",
+131,Schule am Wilhelmsberg,"Sandinostr. 8, Schule (Geb. A)",13051,Fernwärme,-,"89,350","Wärmeversorgung aus anderem Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+132,Schule am Wilhelmsberg,"Sandinostr. 8, MEB (Geb. C)",13051,Fernwärme,"160,003","23,611",
+133,Gutenberg-Schule,"Sandinostr. 10, Schule (Geb. A)",13051,Fernwärme,"1,405,604","132,358","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+134,Gutenberg-Schule,"Sandinostr. 10 (Landsberger Allee  ), MUR (Geb. D)",13051,Fernwärme,"151,422","21,069",
+135,"Stadion ""1. Mai""","Scheffelstr. 21, Sportfunktionsgebäude",10367,Erdgas H,"116,033","24,915",
+136,"Schulze-Boysen-Str. 40, Gebäude","Schulze-Boysen-Str. 40, Gebäude",10365,Fernwärme,"81,702","5,515",
+137,Mildred-Harnack-Schule,"Schulze-Boysen Str. 12-20, Schule (Geb. A)",10365,Fernwärme,"535,981","71,050","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+138,Mildred-Harnack-Schule,"Schulze-Boysen Str. 12-20, Schule (Geb. C)",10365,Fernwärme,"459,314","43,900","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+139,"Schwarzmeerstr. 57, Gebäude","Schwarzmeerstr. 57, Gebäude",10319,Erdgas H,"54,276","3,078",
+140,"Seehausenerstr. 5, Sporthalle","Seehausenerstr. 5, Sporthalle",13057,Fernwärme,"233,961","18,318",
+141,George-Orwell-Schule,"Sewanstr. 223, Schule (Geb. A)",10319,Fernwärme,"578,715","73,400","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+142,Bernhard-Grzimek-Schule,"Sewanstr. 184, Schule (Geb. A)",10319,Fernwärme,"310,808","48,050","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+143,"Sewanstr. 235, Seniorenbegegnungsstätte","Sewanstr. 235, Seniorenbegegnungsstätte",10319,-,-,"1,321",angemietet
+144,KULTSchule,"Sewanstr. 43, Gebäude",10319,Fernwärme,"440,878","42,363","Wärmeversorgung für mehrere Gebäude - Stromversorgung für mehrere Gebäude -  - Teilnutzung
+wegen Sanierung"
+145,Filiale Schule auf dem lichten Berg,"Siegfriedstr. 208, Schule (Geb. A)",10365,Erdgas H,"160,277","29,300",
+146,BVB Stadion,"Siegfriedstr. 71, Sportfunktionsgebäude",10365,Erdgas H,"163,510","48,800","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+147,Schostakowitsch-Musikschule,"Stolzenfelstr. 1, Schule",10318,-,-,"15,650",angemietet
+148,"Storkower Str. 209 A, Sportfunktionsgebäude","Storkower Str. 209 A, Sportfunktionsgebäude",10369,Fernwärme,"52,400","15,380",
+149,Fil. Matibi-Schule,"Str. 3 Nr. 21, Schule (Geb. A)",13059,Heizöl,"255,217","27,513","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+150,Mildred-Harnack-Schule,"Tasdorfer Str. 45-46, Sporthalle",10365,Fernwärme,"119,721","16,206",
+151,Gartenarbeitsschule,"Trautenauerstr. 40 (19), Schule",10318,Erdgas H,"205,869","11,050",
+152,Kulturhaus Karlshorst,"Treskowallee 112/ Dönhoffstr. 42, Kulturhaus",10318,-,-,"39,550",angemietet
+153,Stadthaus,"Türrschmidtstr. 24-25, Gebäude",10317,Erdgas H,"155,175","17,200",
+154,"Warnitzer str. 6-8, Seniorenbegegnungsstätte","Warnitzer str. 6-8, Seniorenbegegnungsstätte",13057,-,-,"3,732",vermietet
+155,"Wartenberger Str. 123, Am Breiten Luch 21,
+Sportfunktionsgebäude","Wartenberger Str. 123, Am Breiten Luch 21,
+Sportfunktionsgebäude",13053,Fernwärme,-,"14,100",Wärmeversorgung aus anderem Gebäude -
+156,Phönix-Grundschule,"Wartiner Str. 6, Schule (Geb. A)",13057,Fernwärme,"99,905","121,287","Wärmeversorgung für mehrere Gebäude - Stromversorgung für mehrere Gebäude -  -
+Grundinstandsetzung"
+157,Feldmark-Schule,"Wartiner Str. 23, Schule (Geb. A)",13057,Fernwärme,"1,059,658","113,202","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+158,Fil. Feldmark-Schule/Fil. Barnim-Schule,"Wartiner Str. 47-49, Schule (Geb. A)",13057,Fernwärme,"274,844","14,000",
+159,"Weißenseer Weg 100, Sportplatz","Weißenseer Weg 100, Sportplatz",10369,-,-,423,
+160,"Weitlingstr. 11, Gebäude","Weitlingstr. 11, Gebäude",10317,Erdgas H,"80,907","3,639",
+161,"Welsestr. 50, Sporthalle","Welsestr. 50, Sporthalle",13057,Fernwärme,"145,744","8,878",
+162,Manfred-von-Ardenne-Gymnasium,"Werneuchener Str. 27, Schule (Geb. A)",13053,Fernwärme,"805,820","123,600","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+163,Philipp-Reis-Schule,"Werneuchener Str. 14, Schule (Geb. B)",13055,Fernwärme,-,"41,650",Wärmeversorgung aus anderem Gebäude -
+164,Philipp-Reis-Schule,"Goeckestr. 35, MZG (Geb. D)",13055,Fernwärme,-,"10,650",Wärmeversorgung aus anderem Gebäude -
+165,Philipp-Reis-Schule,"Werneuchener Str. 15, Schule (Geb. A)",13055,Fernwärme,"746,028","71,000","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+166,Robinson-Schule,"Wönnichstr. 7, Schule (Geb. A)",10317,Erdgas H,"823,313","69,250","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+167,Vincent-van-Gogh-Schule,"Wustrower Str. 22-24, MEB (Geb. G)",13051,Fernwärme,"141,442","37,250",
+168,Vincent-van-Gogh-Schule,"Wustrower Str. 26, Schule (Geb. A)",13051,Fernwärme,"1,010,361","48,200","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+169,Vincent-van-Gogh-Schule,"Wustrower Str. 26, Sporthalle (Geb. C)",13051,Fernwärme,"402,345","17,596","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung aus anderem Gebäude -  -"
+170,Schule am Wäldchen,"Wustrower Str. 28, Schule (Geb. A)",13051,Fernwärme,-,"57,350","Wärmeversorgung aus anderem Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+171,Stadion Friedrichsfelde,"Zachertstr. 30-50, Sportfunktionsgebäude",10315,Fernwärme,"256,024","39,082","Wärmeversorgung für mehrere Gebäude -
+Stromversorgung für mehrere Gebäude -  -"
+172,studio im HOCHHAUS,"Zingster Str. 25, Galerie",13051,-,-,"2,367",angemietet
+173,Werkhof,"Zu den Krugwiesen 10, Gebäude",13057,Fernwärme,"212,296","42,359",Stromversorgung für mehrere Gebäude -
+174,"Zum Hechtgraben 1, Soziokulturelles Zentrum","Zum Hechtgraben 1, Soziokulturelles Zentrum",13051,Fernwärme,"295,097","32,356",Teilnutzung
+,,,,,,,
+,,,,Gesamt,"44,072,495","7,982,279",

@@ -71,6 +71,7 @@ I would recommend first reading the _"Readme"_ before opening the .ipynb file. W
 
 ## Contribute
 You can contribute by opening the _"Readme"_ file, clicking on _"Edit"_ and leaving a comment at the bottom of the document with your github link and suggested comments. 
+Here is my github repository link: https://github.com/mmmaxime?tab=repositories
 
 ## Credits
 I used the following website for datasets:

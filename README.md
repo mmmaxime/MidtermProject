@@ -74,7 +74,7 @@ You can contribute by opening the _"Readme"_ file, clicking on _"Edit"_ and leav
 Here is my github repository link: https://github.com/mmmaxime?tab=repositories
 
 ## Credits
-I used the following website for datasets:
+I used the following websites for datasets:
 - https://www.berlin.de/suche/?site=full&q=Energieverbrauchs%C3%BCbersicht
 - https://www.berlin.de/ba-mitte/ueber-den-bezirk/zahlen-und-fakten/energieverbrauch-bezirklicher-gebaeude/
 - https://www.berlin.de/ba-pankow/suche.php?q=Energieverbrauch+bezirklicher+Geb%C3%A4ude
